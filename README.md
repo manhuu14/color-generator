@@ -1,5 +1,3 @@
-👇
-
 🎨 Color Generator
 
 A simple and interactive Random Color Generator built using HTML, CSS, and JavaScript.
@@ -39,11 +37,10 @@ The background updates to a random color
 
 The hex code appears on the screen
 
-(Optional) Click the hex code to copy it
+Click the hex code to copy it
 
 📸 Preview
-
-(You can upload a screenshot after pushing the project)
+<img width="366" height="352" alt="Screenshot From 2025-12-07 17-27-31" src="https://github.com/user-attachments/assets/2e710c7b-3266-460a-b947-bbfa9c533223" />
 
 💡 Learning Objectives
 
@@ -78,10 +75,3 @@ Open index.html in your browser.
 Contributions and suggestions are welcome!
 Feel free to open issues or submit pull requests.
 
-
-If you want, I can also create:
-✅ A better UI design
-✅ A description for GitHub repo sidebar
-✅ A logo/banner for your README
-
-Just tell me!
